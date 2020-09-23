@@ -10,6 +10,7 @@ static const Block blocks[] = {
 	{"",        "$HOME/bin/status/memory",	                1,		            0},
 	{"",        "$HOME/bin/status/filesystem",	            3600,	            0},
 	{"",        "$HOME/bin/status/volume",	                1,	                1},
+	{"",        "$HOME/bin/status/mailbox",				    300000,	            0},
 	{"",        "$HOME/bin/status/datetime",				1,		            0},
 	{"",        "$HOME/bin/status/bat-state",				30,		            0},
 	{"",        "$HOME/bin/status/bat-capacity",			30,		            0},
